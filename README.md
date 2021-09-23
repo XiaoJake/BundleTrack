@@ -79,6 +79,7 @@ For the environment setup, it's strongly recommended to use our provided docker 
 
 - `rm -rf build && mkdir build && cd build && cmake .. && make`
 
+- Download masks from https://archive.cs.rutgers.edu/archive/a/2021/pracsys/2021_iros_bundletrack/masks.tar.gz, extract and put in the repo so it becomes `masks/...`
 
 
 ## Run predictions on NOCS
